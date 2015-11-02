@@ -1,0 +1,6 @@
+parameters:
+    darvin_webmail_linker.linker.class: WebmailLinker
+
+services:
+    darvin_webmail_linker.linker:
+        class: %darvin_webmail_linker.linker.class%
