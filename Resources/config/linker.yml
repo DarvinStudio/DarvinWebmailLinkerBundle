@@ -3,4 +3,4 @@ parameters:
 
 services:
     darvin_webmail_linker.linker:
-        class: %darvin_webmail_linker.linker.class%
+        class: "%darvin_webmail_linker.linker.class%"
