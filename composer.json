@@ -1,6 +1,6 @@
 {
     "name":        "darvinstudio/darvin-webmail-linker-bundle",
-    "description": "This bundle provides 'webmail-linker' library (https://github.com/DarvinStudio/webmail-linker) integration for Symfony2.",
+    "description": "This bundle provides 'webmail-linker' library (https://github.com/DarvinStudio/webmail-linker) integration for Symfony.",
     "keywords":    ["mail", "webmail"],
     "type":        "symfony-bundle",
     "license":     "MIT",
